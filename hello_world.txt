@@ -1,1 +1,2 @@
 Hello, test Git
+A new line.
